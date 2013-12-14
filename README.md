@@ -1,1 +1,2 @@
-2d mmorpg; pewlrs
+2dimension mmorpg;
+big learning curve
