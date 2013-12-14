@@ -1,2 +1,2 @@
-2dimension mmorpg;
+2 dimensional mmorpg;
 big learning curve
